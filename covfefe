@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-java Covfefe "$@"
+java -jar "/usr/local/lib/covfefe.jar" "$@"

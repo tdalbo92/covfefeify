@@ -11,7 +11,9 @@
 // You should have received a copy of the GNU General Public License
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-class Covfefe {
+//package com.tombo;
+
+class Main {
     public static void main(String[] args) {
         for (int i = 0; i < args.length; i++) {
             // https://codegolf.stackexchange.com/a/123736
